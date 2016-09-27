@@ -1,1 +1,2 @@
-teste mini curso git 2016 editado
+teste mini curso git 2016
+estou no branch testing
